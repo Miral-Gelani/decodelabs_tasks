@@ -58,12 +58,6 @@ Recommended Movies:
 
 ---
 
-## 📸 Output
-
-![Output](screenshots/output.png)
-
----
-
 ## 🎯 Learning Outcomes
 
 * Conditional Statements
