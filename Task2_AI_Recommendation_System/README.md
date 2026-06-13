@@ -92,6 +92,6 @@ Recommended Movies:
 
 B.Tech Computer Engineering Student
 
-🔗 LinkedIn: https://www.linkedin.com/in/miral-gelani
+🔗 LinkedIn: https://www.linkedin.com/in/miral-gelani925
 
 📧 Email: [miralgelani95@gmail.com](mailto:miralgelani95@gmail.com)
